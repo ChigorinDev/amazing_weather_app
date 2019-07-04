@@ -1,0 +1,13 @@
+body {
+  background: url('../img/bg-2.jpg') center no-repeat /cover;
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+}
+
+.container {
+  max-width: 35rem;
+}
+
+.text-white {
+  color: rgba(255, 255, 255, .8) !important;
+}
